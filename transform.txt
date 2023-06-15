@@ -1,0 +1,5 @@
+From/To	Bass Alto Soprano Alto
+Bass	+8	+4	0	-4
+Tenor	-8	-4	0	-4
+Alto	-12	-8	-4	0
+Soprano	-12	-8	-4	0
